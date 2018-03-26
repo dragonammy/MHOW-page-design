@@ -1,0 +1,149 @@
+ body
+ {
+   background-image: url(wallpaper1.jpg);
+
+ }
+
+ img
+  {
+    opacity: 1;
+    filter: alpha(opacity=50);
+    border-style: solid;
+    border-width: 5px;
+   * For IE8 and earlier */
+}
+ .bhome {background-color: #555555;} /* Blue */
+ .b1 {
+    background-color: #555555; /* Green */
+    
+}
+
+.b2 {background-color: #555555;} /* Blue */
+.b3 {background-color: #555555;} /* Red */ 
+.b4 {background-color: #555555; color: black;} /* Gray */ 
+.b5 {background-color: #555555;} /* Black */
+.b6 {background-color: #555555;} /* Blue */
+.b7 {background-color: #555555;} /* Red */ 
+.b8 {background-color: #555555;} /* Black */
+.b9 {background-color: #555555;} /* Blue */
+.b10 {background-color: #555555;} /* Blue */
+
+span
+{
+    background-image: url(history2.jpg);
+}
+
+h1, h4
+{
+  width: 500px;
+  border-style: solid;
+  border-width: 2px 10px 4px 20px;
+}
+
+section
+{
+    border-style: solid;
+    border-width: 2px 10px 4px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color:  hsla(50,30%, 65%,0.8);
+
+}
+section > p, ol, iframe,table {
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+}
+p
+{
+  text-align: justify;
+  color: purple;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+h2,h3{
+    width: 260px;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 23px;
+    background-color: hsla(20,30%, 65%,0.9);
+    font-style: italic; 
+    text-underline-position: auto;
+    font-weight: bold;
+}
+article
+{
+    border-style: solid;
+    border-width: 2px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-color:  hsla(60,20%, 75%,0); 
+}
+
+.topcenter
+{
+  align-self: center;
+  text-align: center;
+  border-width: 2px;
+  border-style: solid;
+  
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: hsla(20,43%, 51%,0.6);
+
+}
+
+#top_cen
+{
+  align-items: center;
+}
+h1
+{
+  font-size: 100px;
+  font-weight: bold;
+}
+
+h4
+{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+iframe
+{
+  
+  align-items: center;
+}
+table
+{
+  
+  background-color: hsla(50,43%, 51%);
+}
+article #tab_ved
+{
+  align-content: center;
+  align-items: center;
+  align-self: center;
+  alignment-baseline: central;
+}
+table
+{
+    width: 500px;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 23px;
+    background-color: hsla(60,30%, 65%,0.9);
+    font-style: italic; 
+    text-underline-position: auto;
+    font-weight: bold; 
+    caption-side: top;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
