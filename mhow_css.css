@@ -89,13 +89,25 @@ article
 {
   align-self: center;
   text-align: center;
-  border-width: 2px;
+  border-width: 0.5px;
   border-style: solid;
   
   margin-top: 0px;
   margin-bottom: 0px;
-  background-color: hsla(20,43%, 51%,0.6);
 
+  
+
+}
+
+
+h1
+{
+  background-color: hsla(20,43%, 51%,0.6);
+  
+}
+h4
+{
+  background-color: hsla(80,43%, 51%,0.8);
 }
 
 #top_cen
